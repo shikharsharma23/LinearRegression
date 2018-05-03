@@ -1,0 +1,1 @@
+Simple Implementation of Linear Regression in Python to Predict Life Expectancy from BMI
